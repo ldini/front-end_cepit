@@ -1,0 +1,43 @@
+body{
+    color: red;
+}
+
+div p{
+    color: red;
+}
+
+.div1{
+    color: blue;
+}
+
+div.div2{
+    color: black;
+}
+
+p.parrafo{
+    color: blueviolet;
+}
+
+.caja-div > div{
+        border: 1px solid black;
+        width: 300px;
+}
+
+
+
+
+.div1{
+    border: 2px solid rgb(220, 2, 2);
+}
+
+
+
+.div1:active{
+    background-color: burlywood;
+}
+
+p:hover{
+    background-color: black;
+    color: greenyellow;
+}
+
